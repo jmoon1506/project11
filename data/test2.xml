@@ -1,0 +1,43 @@
+<scene>
+    <flags>
+        <nextDialogue>101</nextDialogue>
+    </flags>
+    <dialogue index="101">
+        <text>
+            <contents>1. Morbi lobortis, nisi vitae aliquet mattis, libero erat porttitor ante, a pretium lectus diam nec orci.</contents>
+        </text>
+        <text>
+            <contents>2. Aliquam vel sollicitudin ipsum. Nulla interdum, arcu at egestas aliquet, arcu dui tincidunt magna, in sodales odio sem a dui. Aliquam vulputate quis ante sit amet luctus. Morbi nec ipsum efficitur leo vestibulum vulputate. Donec sit amet dui sed eros finibus ullamcorper a sed eros. Suspendisse pulvinar felis et dignissim rutrum. Nam consectetur augue non elit bibendum, quis aliquet dui varius. Mauris mattis vestibulum nisl id elementum.</contents>
+        </text>
+        <text>
+            <contents>3. Duis pellentesque semper lectus sed facilisis.</contents>
+        </text>
+        <text>
+            <contents>4. Nam massa tortor, porttitor in laoreet id, vulputate vel quam. Nunc eu massa id lectus vulputate convallis. Nulla facilisi. Nunc sem mi, dapibus faucibus tempus eget, bibendum vitae purus.</contents>
+        </text>
+        <text>
+            <contents>5. Sed tristique nibh odio.</contents>
+        </text>
+        <text>
+            <contents>6. Nunc sem mi, dapibus faucibus tempus eget, bibendum vitae purus. Integer elementum ultricies erat at luctus. In eu turpis libero. Vivamus maximus id ex eget scelerisque.</contents>
+        </text>
+        <text>
+            <contents>7. Pellentesque tristique, massa vel vulputate aliquam, risus justo dictum justo, sed accumsan metus lacus et purus. Nunc finibus justo id lectus tempus, vel varius ex euismod. Nulla nisi nisi, elementum feugiat scelerisque sit amet, luctus egestas purus.</contents>
+        </text>
+        <text>
+            <contents>8. Sed semper est eget mi luctus, a eleifend justo facilisis. Nunc odio mauris, faucibus vel libero sit amet, vehicula varius ipsum.</contents>
+        </text>
+        <text>
+            <contents>9. Etiam efficitur mi vel lorem gravida, pharetra vestibulum purus rutrum. Donec felis tortor, consequat sit amet enim in, auctor ultricies turpis. Mauris sed laoreet velit. Donec pharetra sit amet nisi eu interdum. Praesent ipsum velit, auctor ac fermentum quis, viverra in neque. Nulla quis tempus sapien. Suspendisse sed sapien a elit convallis porta vitae non tellus. Nam interdum lacus vitae gravida blandit. Suspendisse viverra metus et justo molestie dictum. Fusce iaculis nulla odio, sit amet elementum neque fermentum eu. Quisque varius mauris ac turpis pharetra dictum. In justo eros, lobortis at nibh sollicitudin, tempus finibus tellus. Phasellus in ligula et urna volutpat lobortis. Fusce aliquam lorem imperdiet enim congue, eget aliquet metus efficitur.</contents>
+        </text>
+        <text>
+            <contents>10. Vestibulum tellus erat, scelerisque quis odio nec, finibus aliquet massa. Nunc imperdiet eros sed eros feugiat, in aliquet nisi tempus. Nunc et dapibus lectus, eu tincidunt felis. Aenean eu quam ac urna cursus blandit. Aliquam erat volutpat. Cras maximus dolor nulla, sed elementum tellus molestie facilisis. Pellentesque mattis erat ex, vitae pharetra ipsum lacinia nec. Sed nunc eros, condimentum at facilisis quis, ultrices sollicitudin urna. Sed at risus velit. Vivamus aliquet libero a fringilla iaculis. Duis sit amet tellus urna.</contents>
+        </text>
+        <text>
+            <contents>11. Sed eros nisi, consectetur quis vestibulum sed, vulputate eget quam. Donec molestie lorem at pellentesque eleifend. In ac ligula non tellus elementum ultricies id vel ligula.</contents>
+        </text>
+        <text>
+            <contents>12. Phasellus et eros ultrices, consectetur turpis tempor, iaculis lacus. Nam venenatis nulla sed nisi semper sagittis. Nam porta aliquam ornare. Vivamus feugiat sem sit amet nisi accumsan scelerisque. Mauris eget nibh urna. Duis nec diam vehicula, condimentum arcu id, lobortis tellus. In eros ex, vehicula non viverra quis, vulputate quis neque. In nibh nibh, semper nec ullamcorper et, molestie et diam. Nulla sagittis justo blandit sapien condimentum interdum.</contents>
+        </text>
+    </dialogue>
+</scene>
